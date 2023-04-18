@@ -1,8 +1,9 @@
-
+package com.ibrahim.yalcin.app.calculateMachine
+ 
 import androidx.appcompat.app.AppCompatActivity 
 import android.os.Bundle
 import android.widget.Toast
-import org.csystem.android.app.calculatemachine.ProcessTools.Tools
+import com.ibrahim.yalcin.android.app.calculatemachine.ProcessTools.Tools
 
 
 import org.csystem.android.app.calculatemachine.databinding.ActivityMainBinding
