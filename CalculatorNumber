@@ -1,3 +1,5 @@
+package com.ibrahim.yalcin.app.calculateMachine
+
 
 var NumberButton0 = 0
 var NumberButton1 = 1
