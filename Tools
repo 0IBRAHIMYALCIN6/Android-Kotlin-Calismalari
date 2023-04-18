@@ -1,0 +1,5 @@
+package com.ibrahim.yalcin.android.app.calculatemachine.ProcessTools.Tools
+
+enum class Tools (var Sign : String) {
+    CARPMA("*"), BOLME("/"), CIKARMA("-"), TOPLAMA("+"), MOD("%")
+}
